@@ -1,0 +1,59 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  text-align: center;
+  width: 600px;
+  margin: 0 auto;
+}
+
+
+ul li{
+  list-style: none;
+  border: 2px solid black;
+  width: 600px;
+  margin: 15px auto;
+  padding: 15px 10px;
+  font-size: 20px;
+  color: rgba(0, 0, 0, 0.7);
+}
+
+.title{
+  background-color: rgb(0, 35, 68);
+  color: white;
+  padding: 20px;
+  width: 600px;
+  font-size: 40px;
+}
+
+.inputwala{
+  margin-top: 30px;
+  margin-bottom: 30px;
+
+}
+
+.uldiv{
+  /* background-color: yellow; */
+  width: 600px;
+}
+
+input[type="text"]{
+  padding: 8px;
+  margin-right: 10px;
+  border-radius: 10px;
+  outline: none;
+  border: 2px solid black;
+}
+
+button{
+  padding: 8px 8px;
+  background-color: dodgerblue;
+  color: white;
+  border-radius: 10px;
+  outline: none;
+  border: 2px solid black;
+
+}
